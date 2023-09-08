@@ -1,0 +1,6 @@
+name: 66f55610-9c5a-4046-8a5d-caeaa238747a
+channels: 
+  - conda-forge
+
+dependencies:
+  - conda-forge::python=3.11.5
